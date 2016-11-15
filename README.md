@@ -1,2 +1,3 @@
 # hello-world
-First git project
+
+Just another stupid student trying out something new
